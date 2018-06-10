@@ -1,0 +1,2 @@
+# Takuzu
+Jeu du Takuzu
